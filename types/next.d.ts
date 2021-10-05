@@ -14,3 +14,7 @@ declare module "next/app" {
     }
   }
 }
+
+declare global {
+  var mongo: any;
+}

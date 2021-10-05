@@ -25,8 +25,11 @@
     "semi": false
   },
   "dependencies": {
+    "@next-auth/mongodb-adapter": "^0.0.2-pr.193-6071c497.276",
+    "mongoose": "5.13.7",
     "next": "^11.1.2",
-    "next-auth": "4.0.0-beta.4",
+    "next-auth": "^4.0.0-beta.4",
+    "nodemailer": "^6.6.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "sqlite3": "^5.0.2"
